@@ -15,12 +15,6 @@ questions.forEach(function (question) {
     });
 });
 
-
-
-
-
-
-
 // alternatively, you can also achieve this by traversing the dom, as seen below
 
 // const btns = document.querySelectorAll(".question-btn");
